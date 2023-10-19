@@ -1,4 +1,4 @@
-0x01. AirBnB clone - Web static
+https://github.com/GideonBature/AirBnB_clone.git0x01. AirBnB clone - Web static
 ===============================
 
 HTML CSS Front-end
@@ -7,8 +7,8 @@ HTML CSS Front-end
 
 _For this project, we expect you to look at these concepts:_
 
-*   [HTML/CSS](https://github.com/GideonBature/AirBnB_clone/tree/master/concept_pages/html_css)
-*   [The trinity of front-end quality](https://github.com/GideonBature/AirBnB_clone/tree/master/concept_pages/trinity_frontend)
+*   [HTML/CSS](https://github.com/GideonBature/AirBnB_clone/tree/main/web_static/concept_pages/html_css)
+*   [The trinity of front-end quality](https://github.com/GideonBature/AirBnB_clone/tree/main/web_static/concept_pages/trinity_frontend)
 
 
 Background Context
