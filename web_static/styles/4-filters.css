@@ -24,6 +24,7 @@ section.filters button {
 	right: 30px;
 	top: 0;
 	bottom: 0;
+	margin: auto;
 }
 
 section.filters button:hover {
