@@ -1,0 +1,107 @@
+/*
+==========================
+Search Styles
+==========================
+*/
+.filters {
+	position: relative;
+	color: white;
+	height: 70px;
+	width: 100%;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+	text-align: right;
+}
+
+/*
+==========================
+Button Styles
+==========================
+*/
+
+section.filters button {
+	font-size: 18px;
+	background-color: #FF5A5F;
+	color: #FFFFFF;
+	height: 48px;
+	width: 20%;
+	border: 0px;
+	border-radius: 4px;
+	position: absolute;
+	right: 30px;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+section.filters button:hover {
+	opacity: 90%;
+}
+
+/*
+===============================
+Location and Amenities Styles
+===============================
+*/
+
+section.filters div.locations {
+	border-right: 1px solid #DDDDDD;
+}
+
+section.filters div h2, h3, h4 {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.amenities:hover .popover,
+.locations:hover .popover {
+    visibility: visible;
+}
+
+.popover {
+	position: relative;
+	visibility: hidden;
+	width: 100%;
+	background-color: #FAFAFA;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+	padding-bottom: 25px;
+}
+
+.locations{
+    border-right: 1px solid #DDDDDD;
+}
+
+.locations, .amenities {
+    height: 100%;
+    width: 25%;
+    text-align: left;
+    padding-left: 30px;
+    float: left;
+    color: black;
+}
+.locations h3, .amenities h3{
+    font-weight:600;
+    margin-bottom: -15px;
+	line-height: 50px;
+}
+
+.locations h4, .amenities h4{
+    font-weight:400;
+    font-size: 14px;
+	line-height: 32px;
+}
+
+.amenities .popover {
+    padding: 20px 0;
+    margin-left: -30px;
+    margin-top: 1%;
+}
+.locations .popover {
+    margin-top: 1%;
+    margin-left: -30px;
+    width: 96%;
+
+}
+ul {
+    list-style-type: none;
+}
